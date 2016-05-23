@@ -1,0 +1,19 @@
+.huge{
+    font-size: 40px;
+}
+.tag-boxes .panel-primary{
+    border: 1px solid skyblue;
+}
+
+.tag-boxes .panel-red{
+    color: aliceblue;
+   background-color: brown;
+}
+.tag-boxes .panel-yellow{
+    color: white;;
+   background-color: darkgoldenrod;
+}
+.tag-boxes .panel-green{
+    color: beige;
+   background-color: darkcyan;
+}
