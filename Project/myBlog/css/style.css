@@ -90,3 +90,85 @@ body{
 }
 
 
+.post{
+    background: white;
+    margin: 15px 0px;
+    
+    
+}
+
+.post .post-date{
+    padding: 20px;
+    text-align: center;
+
+
+}
+.post-date .day{
+    color: #00F1C7;
+    font-size: 30px;
+}
+
+.post .post-title{
+    border-left:  1px solid beige;
+}
+
+.post .post-title span{
+    color: #00F1C7;
+    margin-left: 10px;
+    font-weight: 100;
+}
+
+.post .profile-pic img{
+    width: 100%;
+    padding: 10px;
+}
+
+.post a img{
+    width: 100%;
+    margin-top: -10px;
+}
+
+.post .des{
+    font-weight: 100;
+    padding: 15px;
+}
+
+.post .bottom {
+    margin: 20px 20px;
+}
+.post .bottom #com{
+    margin-left: 20px;
+}
+nav#pagination{
+    text-align: center;
+}
+.pagination > li > a{
+    padding: 15px 25px;
+    color: aqua;
+    font-size:  18px;
+}
+#success_message{ display: none;}
+
+.contact-form{
+    margin-top: 10px;
+    background-color: white;
+    padding: 20px;
+}
+
+.rpost {
+    background: white;
+    padding: 20px;
+}
+.rpost img{
+    width: 100%;
+}
+
+.author{
+    background: white;
+    padding: 20px;
+    margin-top: 10px;
+}
+.author img{
+    width: 100%;
+    
+}

@@ -93,151 +93,110 @@
             <div class="row">
 
                 <div class="col-md-8">
+                             <div class="post">
+                         <div class="row">
+                             <div class="col-md-2 post-date">
+                                 <div class="day">16</div>
+                                 <div class="month">January</div>
+                                 <div class="year">2016</div>
+                             </div>
+                             <div class="col-md-8 post-title">
+                                 <a><h3>Learn How to develop a CMS BLOGF site using PHP,MYSQL,Bootstrap</h3></a>
+                                 <p>Written by : <span>Mohammad Shaon</p>
+                             </div>
+                             <div class="col-md-2 profile-pic">
+                                 <img src="img/shaon.jpg" alt="MyImg" class="img-circle">
+                             </div>
+                         </div>
+                         <a> <img src="img/postimg2.JPG" alt="Post img"></a>
+                         <p class="des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione animi totam illum corporis porro accusantium nesciunt fugiat similique expedita architecto libero enim ab, quod molestias, dolores, reiciendis recusandae sunt praesentium.
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut molestiae minima consequuntur voluptate placeat corrupti dolorem enim aliquid, tempore id perspiciatis quod sint deserunt alias numquam, facilis odio a delectus.
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione animi totam illum corporis porro accusantium nesciunt fugiat similique expedita architecto libero enim ab, quod molestias, dolores, reiciendis recusandae sunt praesentium.
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut molestiae minima consequuntur voluptate placeat corrupti dolorem enim aliquid, tempore id perspiciatis quod sint deserunt alias numquam, facilis odio a delectus.
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione animi totam illum corporis porro accusantium nesciunt fugiat similique expedita architecto libero enim ab, quod molestias, dolores, reiciendis recusandae sunt praesentium.
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut molestiae minima consequuntur voluptate placeat corrupti dolorem enim aliquid, tempore id perspiciatis quod sint deserunt alias numquam, facilis odio a delectus. </p>
+                        <a href="" class="btn btn-info">Read More</a>
+                        <hr>
+                         <div class="bottom">
+                             <a href=""><span id="cat"><i class="fa fa-folder-open" aria-hidden="true"></i>Category</span></a> 
+                             <a href=""><span id="com"><i class="fa fa-commenting" aria-hidden="true"></i>Comment</span></a>
+                         </div>
+                     </div>   
                     
-                   
-                        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
-  <ol class="carousel-indicators">
-    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
-    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
-  </ol>
+                    <div class="rpost">
+                       <div class="row">
+                       <h3>Related Post</h3>
+                       <hr>
+                        <div class="col-sm-4">
+                            <a href="">
+                                   <img src="img/banner.jpg" alt="">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati dolor ducimus, ad, non saepe consequuntur est.
+                                </p>
+                            </a>
+                        </div>
+                            <div class="col-sm-4">
+                                 <a href="">
+                              <img src="img/banner.jpg" alt="">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati dolor ducimus, ad, non saepe consequuntur est.
+                                </p>
+                            </a>
+                            </div>
+                            <div class="col-sm-4">
+                                 <a href="">
+                                <img src="img/banner.jpg" alt="">
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati dolor ducimus, ad, non saepe consequuntur est.
+                                </p>
+                            </a>
+                            </div>
+                    </div>
+                    </div>
+                    
+                    
+                    
+                    <div class="author">
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <img src="img/shaon.jpg" alt="" class="img-circle">
+                            </div>
+                            <div class="col-sm-9">
+                                <p>
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reprehenderit, repudiandae rem totam distinctio iste temporibus magni voluptatum quos reiciendis quia voluptas libero. Id sunt nemo, et repellendus odit est.
+                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi dolores fugiat corrupti numquam, vitae eligendi illum? Impedit mollitia, ut minus, commodi molestiae totam, fuga nostrum accusantium molestias nam explicabo sequi.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="col-md-12 contact-form">
+                      
+                      <h3>Comment Box</h3> 
+                      <hr>
+                       <form role="form">
+                        <div class="form-group">
+      <label for="name">Full Name:</label>
+      <input type="text" class="form-control" name="name" placeholder="Full Name">
+    </div>
+    <div class="form-group">
+      <label for="email">Email:</label>
+      <input type="email" class="form-control" name="email" placeholder="Enter Email">
+    </div>
+    <div class="form-group">
+      <label for="pwd">Website:</label>
+      <input type="text" class="form-control" name="website" placeholder="Website address">
+    </div>
+     <div class="form-group">
+      <label for="email">Email:</label>
+         <textarea class="form-control" name="msg" placeholder="Enter messages" cols="30" rows="10"></textarea>
+    </div>
+    
+    <button type="submit" class="btn btn-default">Submit</button>
+  </form>
+                        
+                         
+                     </div>
 
-  <!-- Wrapper for slides -->
-  <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <img src="img/slider1.png" alt="...">
-      <div class="carousel-caption">
-        <p>Hello Bangladesh</p>
-      </div>
-    </div>
-    <div class="item">
-      <img src="img/slider2.jpg" alt="...">
-      <div class="carousel-caption">
-        ...
-      </div>
-    </div>
-    <div class="item">
-      <img src="img/slider3.jpg" alt="...">
-      <div class="carousel-caption">
-        ...
-      </div>
-    </div>
-    ...
-  </div>
-
-  <!-- Controls -->
-  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
-                     
-                  
-                     <div class="post">
-                         <div class="row">
-                             <div class="col-md-2 post-date">
-                                 <div class="day">16</div>
-                                 <div class="month">January</div>
-                                 <div class="year">2016</div>
-                             </div>
-                             <div class="col-md-8 post-title">
-                                 <a><h3>Learn How to develop a CMS BLOGF site using PHP,MYSQL,Bootstrap</h3></a>
-                                 <p>Written by : <span>Mohammad Shaon</p>
-                             </div>
-                             <div class="col-md-2 profile-pic">
-                                 <img src="img/shaon.jpg" alt="MyImg" class="img-circle">
-                             </div>
-                         </div>
-                         <a> <img src="img/postimg2.JPG" alt="Post img"></a>
-                         <p class="des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione animi totam illum corporis porro accusantium nesciunt fugiat similique expedita architecto libero enim ab, quod molestias, dolores, reiciendis recusandae sunt praesentium.
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut molestiae minima consequuntur voluptate placeat corrupti dolorem enim aliquid, tempore id perspiciatis quod sint deserunt alias numquam, facilis odio a delectus. </p>
-                        <a href="" class="btn btn-info">Read More</a>
-                        <hr>
-                         <div class="bottom">
-                             <a href=""><span id="cat"><i class="fa fa-folder-open" aria-hidden="true"></i>Category</span></a> 
-                             <a href=""><span id="com"><i class="fa fa-commenting" aria-hidden="true"></i>Comment</span></a>
-                         </div>
-                     </div>   
-                     
-                     <div class="post">
-                         <div class="row">
-                             <div class="col-md-2 post-date">
-                                 <div class="day">16</div>
-                                 <div class="month">January</div>
-                                 <div class="year">2016</div>
-                             </div>
-                             <div class="col-md-8 post-title">
-                                 <a><h3>Learn How to develop a CMS BLOGF site using PHP,MYSQL,Bootstrap</h3></a>
-                                 <p>Written by : <span>Mohammad Shaon</p>
-                             </div>
-                             <div class="col-md-2 profile-pic">
-                                 <img src="img/shaon.jpg" alt="MyImg" class="img-circle">
-                             </div>
-                         </div>
-                         <a> <img src="img/postimg2.JPG" alt="Post img"></a>
-                         <p class="des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione animi totam illum corporis porro accusantium nesciunt fugiat similique expedita architecto libero enim ab, quod molestias, dolores, reiciendis recusandae sunt praesentium.
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut molestiae minima consequuntur voluptate placeat corrupti dolorem enim aliquid, tempore id perspiciatis quod sint deserunt alias numquam, facilis odio a delectus. </p>
-                        <a href="" class="btn btn-info">Read More</a>
-                        <hr>
-                         <div class="bottom">
-                             <a href=""><span id="cat"><i class="fa fa-folder-open" aria-hidden="true"></i>Category</span></a> 
-                             <a href=""><span id="com"><i class="fa fa-commenting" aria-hidden="true"></i>Comment</span></a>
-                         </div>
-                     </div>   
-                     
-                      
-                      <div class="post">
-                         <div class="row">
-                             <div class="col-md-2 post-date">
-                                 <div class="day">16</div>
-                                 <div class="month">January</div>
-                                 <div class="year">2016</div>
-                             </div>
-                             <div class="col-md-8 post-title">
-                                 <a><h3>Learn How to develop a CMS BLOGF site using PHP,MYSQL,Bootstrap</h3></a>
-                                 <p>Written by : <span>Mohammad Shaon</p>
-                             </div>
-                             <div class="col-md-2 profile-pic">
-                                 <img src="img/shaon.jpg" alt="MyImg" class="img-circle">
-                             </div>
-                         </div>
-                         <a> <img src="img/postimg2.JPG" alt="Post img"></a>
-                         <p class="des">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione animi totam illum corporis porro accusantium nesciunt fugiat similique expedita architecto libero enim ab, quod molestias, dolores, reiciendis recusandae sunt praesentium.
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut molestiae minima consequuntur voluptate placeat corrupti dolorem enim aliquid, tempore id perspiciatis quod sint deserunt alias numquam, facilis odio a delectus. </p>
-                        <a href="" class="btn btn-info">Read More</a>
-                        <hr>
-                         <div class="bottom">
-                             <a href=""><span id="cat"><i class="fa fa-folder-open" aria-hidden="true"></i>Category</span></a> 
-                             <a href=""><span id="com"><i class="fa fa-commenting" aria-hidden="true"></i>Comment</span></a>
-                         </div>
-                     </div>   
-                     
-                     <nav id="pagination">
-  <ul class="pagination">
-    <li>
-      <a href="#" aria-label="Previous">
-        <span aria-hidden="true">&laquo;</span>
-      </a>
-    </li>
-    <li class="active"><a href="#">1</a></li>
-    <li><a href="#">2</a></li>
-    <li><a href="#">3</a></li>
-    <li><a href="#">4</a></li>
-    <li><a href="#">5</a></li>
-    <li>
-      <a href="#" aria-label="Next">
-        <span aria-hidden="true">&raquo;</span>
-      </a>
-    </li>
-  </ul>
-</nav>
-                      
-                      
+                    
                     
                     
                 </div>
