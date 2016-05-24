@@ -17,3 +17,19 @@
     color: beige;
    background-color: darkcyan;
 }
+
+.footer{
+    margin-top: 20px;
+    background-color: #30A4E7;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+}
+.footer a{
+    color: white;
+    font-weight: bold;
+}
+
+.footer{
+    margin-bottom: 0px;
+}
